@@ -40,6 +40,7 @@ function listar_por_valor(valor_minimo, valor_maximo) {
     const Valor = produtos.filter(p => p.valor => P.valor>= valor_minimo && p.valor <= valor_maximo);
 	console.log(Valor);
 	
+	
 }
 
 
